@@ -10,9 +10,11 @@ Proyecto construído desde cero, donde se aprendió a conocer el comportamiento 
 1. Clonar el repositorio
 2. Ejecutar
 ```
-yarn install
+yarn install 
 ```
-3. Tener NEST CLI instalado
+Nota: si tienes problemas con el comando puedes ejecutar lo siguiente: yarn install --ignore-engines
+
+3. Tener NEST-CLI instalado de manera global (opcional) 
 ```
 npm i -g @nestjs/cli
 ```
