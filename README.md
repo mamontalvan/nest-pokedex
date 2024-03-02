@@ -3,7 +3,7 @@
 </p>
 
 # Descripción del Proyecto
-Proyecto construído desde cero, donde se aprendió a conocer el comportamiento de cada una de sus piezas, como se relacionan entre sí, que son: controladores, providers, módulos, pipes, middlewares, inyección de dependencias.
+Proyecto construído desde cero, donde se aprendió a conocer el comportamiento de cada una de sus piezas, como se relacionan entre sí, que son: controladores, providers, módulos, pipes, middlewares, inyección de dependencias. En los pasos siguientes se describe el proceso para levantar y ejecutar la aplicación en local.
 
 # Ejecutar en desarrollo
 
